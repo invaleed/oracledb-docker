@@ -19,6 +19,7 @@ $ sudo docker run -d --name oracle193-ee \
 -v oracle-vol:/opt/oracle/oradata \
 invaleed/oracledb:19.3.0-ee
 
+$ docker logs oracle193-ee
 
 ORACLE PASSWORD FOR SYS, SYSTEM AND PDBADMIN: supersecret
 
