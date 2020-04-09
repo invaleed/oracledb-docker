@@ -180,7 +180,8 @@ $ docker stop -t 50 oracle193-ee
 ```
 
 ```bash
-7. Start Oracle container
+
+Start Oracle container
 $ docker start oracle193-ee
 ```
 
